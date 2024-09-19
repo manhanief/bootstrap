@@ -1,5 +1,5 @@
 # Bootstrap
-Examples start kit designs of Bootstrap
+Examples start kit designs of Bootstrap with AOS library use for transition
 
 QUICK START
 
