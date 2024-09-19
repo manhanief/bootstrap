@@ -1,2 +1,2 @@
-# bootstrap
-Example of start kit designs using Bootstrap
+# Bootstrap
+Examples start kit designs of Bootstrap
